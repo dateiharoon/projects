@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+datetime
+timezone
+pprint 
+time
+metadata_parser
