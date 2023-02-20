@@ -40,7 +40,7 @@ echo "Inserting data into industry news trends table "
 logmsg "running script"
 cd ~/scripts/projects/projects $1 > $WORK2 2>&1
 
-python3 ~/scripts/projects/projects/licensing-source_function.py $1 > $WORK2 2>&1
+python3 ~/scripts/projects/licensing-source_function.py $1 > $WORK2 2>&1
 logmsg "licensing-source_function.py"
 
 
