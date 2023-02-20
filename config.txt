@@ -1,0 +1,5 @@
+[DEFAULT]
+mysqlhost = 91.238.161.175
+mysqldatabase = roohihea_php_learning
+mysqlusername = roohihea_harooni
+mysqlpassword = cF?06@bCy@h(
